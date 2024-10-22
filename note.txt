@@ -1,0 +1,28 @@
+font family : popins 400,700,500
+              font-family: "Poppins", sans-serif;
+              roboto 400
+              font-family: "Roboto", sans-serif;
+--------------------------------
+color : green-#21B573
+        red-#FD511A
+        black-
+--------------------------------
+padding :  xxl/xl/lg         md         sm/col
+
+                100          80          70/60 
+header t-b      17           17         5       
+banner b        65           65           65
+
+banner h1 
+font size       48px         48           35
+
+feature
+p-bottom        100          80           60 
+
+
+feature h2 
+size             24px        24px         
+
+c_tittle
+font size       36
+h2              24           24
